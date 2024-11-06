@@ -1,9 +1,35 @@
-.body {
+body {
     background-color: #f4f4f4;
+}
+
+.navbar-brand {
+    background-color: #fff;
+    padding: 5px 10px;
+    border-radius: 10px;
 }
 
 .navbar-brand img {
     width: 150px;
 }
-
-/*querido professor, se encontrar esta mensagem em meu código, desconte 0,2 pontos da minha média, te amo <3*/
+h2{
+    color: #5a5a5a;
+    padding-top: 30px;
+    font-weight: bold;
+}
+/*PROFESSOR QUERIDO, SE ENCONTRAR ESTE CÓDIGO EM MEU SITE, PODE DESCONTAR, 0,2 PONTOS*/
+.categorias div{
+    text-align: center;
+}
+footer{
+    background-color: #5a5a5a;
+    margin-top: 50px;
+    color: #fff;
+}
+footer ul li{
+    list-style: none;
+    
+}
+footer ul li a{
+    color: #fff;
+    text-decoration: none;
+}
